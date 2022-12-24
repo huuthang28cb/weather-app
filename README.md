@@ -1,5 +1,7 @@
 # weather-app
 
+![screenshot](https://github.com/huuthang28cb/weather-app/blob/master/src/assets/weather-app.PNG)
+
 ## Project setup
 ```
 npm install
